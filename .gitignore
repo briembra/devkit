@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+*.log
+*.out
+err.txt
+out.txt
